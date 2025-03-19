@@ -13,23 +13,18 @@ Choose your language: [Português](#português) | [English](#english)
 Bem-vindo(a) ao meu perfil no GitHub! Sou um profissional apaixonado por **ciência de dados**, **análise de dados** e **tecnologia**, com background em administração, engenharia e finanças. Acredito no poder transformador da tecnologia para criar soluções que impactam positivamente o mundo. Aqui você pode conhecer mais sobre minha trajetória, projetos e habilidades.
 
 #### Sobre Mim 🌟
-- 🌱 Estou cursando uma Pós-Graduação em **Ciência de Dados e Inteligência Artificial** (2025).
+- 🌱 Estou cursando uma Pós-Graduação em **Ciência de Dados e Inteligência Artificial**
 - 👯 Quero colaborar em projetos de **ciência de dados**, **machine learning** e **análise preditiva**.
-- ⚡ Curiosidade: Sou movido pela curiosidade e adoro explorar novas possibilidades na tecnologia! 🚀
 
 #### Minhas Habilidades 🛠️
 - **Linguagens e Ferramentas de Programação**:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - **Bibliotecas e Frameworks**:
   - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow Keras, PySpark
-- **Visualização de Dados**:
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-- **Outras Habilidades**:
-  - ETL, Pricing, Análise Financeira, Melhoria de Processos, Big Data
-- **Soft Skills**:
-  - Pensamento analítico, resolução de problemas, gestão de projetos
+ 
 
 #### Experiência Profissional 💼
 - **Analista de Dados** | Thirty Capital (05/2024 – 12/2024)  
@@ -93,21 +88,15 @@ Welcome to my GitHub profile! I'm a professional passionate about **data science
 #### About Me 🌟
 - 🌱 I’m pursuing a Postgraduate degree in **Data Science and Artificial Intelligence** (2025).
 - 👯 I’m looking to collaborate on projects involving **data science**, **machine learning**, and **predictive analytics**.
-- ⚡ Fun Fact: I’m driven by curiosity and love exploring new possibilities in technology! 🚀
 
 #### My Skills 🛠️
 - **Programming Languages and Tools**:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - **Libraries and Frameworks**:
   - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow Keras, PySpark
-- **Data Visualization**:
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-- **Other Skills**:
-  - ETL, Pricing, Financial Analysis, Process Improvement, Big Data
-- **Soft Skills**:
-  - Analytical thinking, problem-solving, project management
 
 #### Professional Experience 💼
 - **Data Analyst** | Thirty Capital (05/2024 – 12/2024)  
