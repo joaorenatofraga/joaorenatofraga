@@ -10,10 +10,10 @@ Choose your language: [Português](#português) | [English](#english)
 
 ### Olá, eu sou Renato Fraga! 👋
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou um profissional apaixonado por **ciência de dados**, **análise de dados** e **tecnologia**, com background em administração, engenharia e finanças. Acredito no poder transformador da tecnologia para criar soluções que impactam positivamente o mundo. Aqui você pode conhecer mais sobre minha trajetória, projetos e habilidades.
+Bem-vindo(a) ao meu perfil no GitHub! Sou um profissional apaixonado por **Engenharia, Ciência e Análise de Dados**, com background em administração, engenharia e finanças. Acredito no poder transformador da tecnologia para criar soluções que impactam positivamente o mundo. Aqui você pode conhecer mais sobre minha trajetória, projetos e habilidades.
 
 #### Sobre Mim 🌟
-- 🌱 Estou cursando uma Pós-Graduação em **Ciência de Dados e Inteligência Artificial**
+- 🌱 Estou cursando uma Pós-Graduação em **Engenharia de dados**, tendo concluído recentemente especialização em **Ciência de Dados e Inteligência Artificial**
 - 👯 Quero colaborar em projetos de **ciência de dados**, **machine learning** e **análise preditiva**.
 
 #### Minhas Habilidades 🛠️
@@ -27,6 +27,10 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um profissional apaixonado por **ciên
  
 
 #### Experiência Profissional 💼
+- **Analista de Dados** | Amigo Tech (04/2025 – 07/2025)  
+  Tratamento, limpeza e criação de processo de ETL para criação de Dashboards voltados para o setor financeiro usando Google Looker e outras ferramentas para processamento,
+criando um sistema automatizado e data-driven para auxiliar na tomada de decisões dos gestores
+
 - **Analista de Dados** | Thirty Capital (05/2024 – 12/2024)  
   Validação de dados financeiros no processo de ETL, integração com plataformas de uma empresa americana do setor de real estate. Utilização de técnicas de análise de dados e realização de *cross-checks* com múltiplas fontes para garantir precisão e consistência das informações.
 
@@ -83,10 +87,10 @@ Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e col
 
 ### Hello, I'm Renato Fraga! 👋
 
-Welcome to my GitHub profile! I'm a professional passionate about **data science**, **data analysis**, and **technology**, with a background in administration, engineering, and finance. I believe in the transformative power of technology to create solutions that positively impact the world. Here you can learn more about my journey, projects, and skills.
+Welcome to my GitHub profile! I am a professional passionate about Engineering, Data Science, and Data Analysis, with a background in administration, engineering, and finance. I believe in the transformative power of technology to create solutions that positively impact the world. Here you can learn more about my journey, projects, and skills.
 
 #### About Me 🌟
-- 🌱 I’m pursuing a Postgraduate degree in **Data Science and Artificial Intelligence** (2025).
+- 🌱 I am currently pursuing a Postgraduate degree in Data Engineering, having recently completed a specialization in Data Science and Artificial Intelligence.
 - 👯 I’m looking to collaborate on projects involving **data science**, **machine learning**, and **predictive analytics**.
 
 #### My Skills 🛠️
