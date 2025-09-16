@@ -1,154 +1,151 @@
-# renatofraga92
- 
-# Renato Fraga's GitHub Profile 🌟
+# João Renato Fraga
 
-Choose your language: [Português](#português) | [English](#english)
+## 🌟 Data Engineer | Data Scientist | Data Analyst
 
----
-
-## Português
-
-### Olá, eu sou Renato Fraga! 👋
-
-Bem-vindo(a) ao meu perfil no GitHub! Sou um profissional apaixonado por **Engenharia, Ciência e Análise de Dados**, com background em administração, engenharia e finanças. Acredito no poder transformador da tecnologia para criar soluções que impactam positivamente o mundo. Aqui você pode conhecer mais sobre minha trajetória, projetos e habilidades.
-
-#### Sobre Mim 🌟
-- 🌱 Estou cursando uma Pós-Graduação em **Engenharia de dados**, tendo concluído recentemente especialização em **Ciência de Dados e Inteligência Artificial**
-- 👯 Quero colaborar em projetos de **ciência de dados**, **machine learning** e **análise preditiva**.
-
-#### Minhas Habilidades 🛠️
-- **Linguagens e Ferramentas de Programação**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- **Bibliotecas e Frameworks**:
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow Keras, PySpark
- 
-
-#### Experiência Profissional 💼
-- **Analista de Dados** | Amigo Tech (04/2025 – 07/2025)  
-  Tratamento, limpeza e criação de processo de ETL para criação de Dashboards voltados para o setor financeiro usando Google Looker e outras ferramentas para processamento,
-criando um sistema automatizado e data-driven para auxiliar na tomada de decisões dos gestores
-
-- **Analista de Dados** | Thirty Capital (05/2024 – 12/2024)  
-  Validação de dados financeiros no processo de ETL, integração com plataformas de uma empresa americana do setor de real estate. Utilização de técnicas de análise de dados e realização de *cross-checks* com múltiplas fontes para garantir precisão e consistência das informações.
-
-- **Analista de Inteligência de Mercado** | Foco Aluguel de Carros (05/2022 – 05/2024)  
-  Criação de relatórios gerenciais, monitoramento da concorrência e posicionamento de mercado. Previsão de demanda, análise de dados para tomada de decisões estratégicas.
-
-- **Estágio em Controladoria** | Indústrias Reunidas Raymundo da Fonte (08/2019 – 07/2021)  
-  Análise de gastos por centro de custos, otimização de processos e fechamento mensal.
-
-- **Estágio em Gestão Financeira de Operações** | Grande Recife Consórcio de Transportes (02/2019 – 07/2019)  
-  Cálculo de custos e remuneração da cada empresa operadora, análise financeira de diferentes fontes de dados.
-
-#### Meus Projetos Favoritos 📂
-- **[REVENUE_MAXIMIZER]**: Ferramenta em Python para otimizar preços e maximizar receita usando modelos lineares e exponenciais, com análise de sensibilidade e visualizações para estratégias de precificação. ([Link](https://github.com/renatofraga92/REVENUE_MAXIMIZER))
-- **[linear_regression_penguins]**: Projeto de predição da massa corporal de pinguins com base no comprimento do bico, gênero e espécie, usando regressão linear em Python. ([Link](https://github.com/renatofraga92/linear_regression_penguins))
-- **[EDA]**: Um projeto de análise exploratória de dados usando Python, com bibliotecas como Pandas, NumPy, Matplotlib e Seaborn. ([Link](https://github.com/renatofraga92/EDA))
-- **[Word-Frequency-Analyzer]**: Um script em Python que analisa a frequência de palavras em textos e retorna os 20 termos mais frequentes. ([Link](https://github.com/renatofraga92/Word-Frequency-Analyzer))
-
-#### Formação Acadêmica 🎓
-- **Pós-Graduação em Ciência de Dados e Inteligência Artificial** | 2025 (Cursando)  
-  Formação avançada em ciência de dados, inteligência artificial, Python, Spark, governança de dados e modelagem preditiva.
-
-- **Google Data Analytics Professional Certificate** | 2022  
-  Curso focado em análise e visualização de dados com ferramentas como Excel, SQL e Power BI.
-
-- **Graduação em Administração** | Uninassau, 2018-2021  
-  Representante de turma durante um período.
-
-- **Graduação em Engenharia Química** | UFPE, 2013-2016  
-  Curso que me ajudou a desenvolver capacidade analítica e resolução de problemas.
-
-#### Entre em Contato 📫
-- 📧 Email: [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/renatofraga](https://linkedin.com/in/renatofraga)
-- 🌐 GitHub: [github.com/renatofraga92](https://github.com/renatofraga92)
-
-#### Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renatofraga92&show_icons=true&theme=dracula)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofraga92&layout=compact&theme=dracula)
-
-#### Idiomas 🌍
-- **Português**: Nativo
-- **Inglês**: Fluente
-- **Espanhol**: Básico
+Bem-vindo(a) ao meu GitHub! Sou apaixonado por **engenharia e ciência de dados**, com experiência em **ETL, pipelines, machine learning e análise preditiva**.  
+Tenho background em Administração, Engenharia e Finanças, e acredito no poder dos dados para transformar negócios.
 
 ---
 
-Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações. Vamos criar algo incrível juntos? 🚀
+## 🚀 Sobre Mim
+- 📊 Experiência em **ETL, Data Warehouse e Big Data**  
+- 🤖 Conhecimento em **Machine Learning, NLP e análise preditiva**  
+- ☁️ Vivência em **SQL, Python, Spark/PySpark e Cloud**  
+- 📈 Criação de **dashboards e soluções data-driven** para tomada de decisão
 
 ---
 
-## English
-
-### Hello, I'm Renato Fraga! 👋
-
-Welcome to my GitHub profile! I am a professional passionate about Engineering, Data Science, and Data Analysis, with a background in administration, engineering, and finance. I believe in the transformative power of technology to create solutions that positively impact the world. Here you can learn more about my journey, projects, and skills.
-
-#### About Me 🌟
-- 🌱 I am currently pursuing a Postgraduate degree in Data Engineering, having recently completed a specialization in Data Science and Artificial Intelligence.
-- 👯 I’m looking to collaborate on projects involving **data science**, **machine learning**, and **predictive analytics**.
-
-#### My Skills 🛠️
-- **Programming Languages and Tools**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- **Libraries and Frameworks**:
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow Keras, PySpark
-
-#### Professional Experience 💼
-- **Data Analyst** | Thirty Capital (05/2024 – 12/2024)  
-  Validated financial data in ETL processes, integrating with platforms of an American real estate company. Applied data analysis techniques and performed cross-checks with multiple sources to ensure accuracy and consistency of information.
-
-- **Market Intelligence Analyst** | Foco Aluguel de Carros (05/2022 – 05/2024)  
-  Created managerial reports, monitored competition, and analyzed market positioning. Forecasted demand and provided data-driven insights for strategic decision-making.
-
-- **Intern in Controlling** | Indústrias Reunidas Raymundo da Fonte (08/2019 – 07/2021)  
-  Analyzed costs by cost center, optimized processes, and supported monthly closings.
-
-- **Intern in Financial Operations Management** | Grande Recife Consórcio de Transportes (02/2019 – 07/2019)  
-  Calculated costs and remuneration for each operating company, performing financial analysis across multiple data sources.
-
-#### My Favorite Projects 📂
-- **[REVENUE_MAXIMIZER]**: A Python tool for optimizing pricing to maximize revenue using linear and exponential models, with sensitivity analysis and visualizations for pricing strategies. ([Link](https://github.com/renatofraga92/REVENUE_MAXIMIZER))
-- **[linear_regression_penguins]**: A project to predict penguins' body mass based on bill length, gender, and species, using linear regression in Python. ([Link](https://github.com/renatofraga92/linear_regression_penguins))
-- **[EDA]**: An exploratory data analysis project using Python, with libraries like Pandas, NumPy, Matplotlib, and Seaborn. ([Link](https://github.com/renatofraga92/EDA))
-- **[Word-Frequency-Analyzer]**: A Python script that analyzes word frequency in texts and returns the 20 most frequent terms. ([Link](https://github.com/renatofraga92/Word-Frequency-Analyzer))
-
-#### Education 🎓
-- **Postgraduate in Data Science and Artificial Intelligence** | 2025 (In Progress)  
-  Advanced training in data science, artificial intelligence, Python, Spark, data governance, and predictive modeling.
-
-- **Google Data Analytics Professional Certificate** | 2022  
-  Course focused on data analysis and visualization using tools like Excel, SQL, and Power BI.
-
-- **Bachelor’s in Business Administration** | Uninassau, 2018-2021  
-  Class representative for one term.
-
-- **Bachelor’s in Chemical Engineering** | UFPE, 2013-2016  
-  A program that helped me develop analytical skills and problem-solving abilities.
-
-#### Get in Touch 📫
-- 📧 Email: [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/renatofraga](https://linkedin.com/in/renatofraga)
-- 🌐 GitHub: [github.com/renatofraga92](https://github.com/renatofraga92)
-
-#### GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatofraga92&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofraga92&layout=compact&theme=dracula)
-
-#### Languages 🌍
-- **Portuguese**: Native
-- **English**: Fluent
-- **Spanish**: Basic
+## 🛠️ Tecnologias
+- **Linguagens:** Python, SQL  
+- **Visualização:** Power BI, Excel  
+- **Big Data & Pipelines:** PySpark, ETL, Data Warehouse, Delta Lake  
+- **Bibliotecas:** Pandas, NumPy, Scikit-Learn, TensorFlow, Seaborn, Matplotlib  
 
 ---
 
-Thanks for visiting my profile! I’m always open to new opportunities and collaborations. Let’s create something amazing together! 🚀
+## 💼 Experiência
+- **Analista de Dados | Amigo Tech (2025)**  
+  Automação de ETL, dashboards em Looker e processos financeiros data-driven.  
+
+- **Analista de Dados | Thirty Capital (2024)**  
+  ETL e validação de dados financeiros em plataformas de real estate (EUA).  
+
+- **Analista de Inteligência de Mercado | Foco Aluguel de Carros (2022–2024)**  
+  Forecast de demanda, pricing e BI para decisões estratégicas.  
+
+- **Estágio em Controladoria | Indústrias Reunidas Raymundo da Fonte (2019–2021)**  
+  Apoio em análise de custos, processos e fechamento mensal.  
+
+---
+
+## 📂 Projetos em Destaque
+- **[REVENUE_MAXIMIZER](https://github.com/joaorenatofraga/REVENUE_MAXIMIZER)** → Otimização de preços com modelos matemáticos  
+- **[linear_regression_penguins](https://github.com/joaorenatofraga/linear_regression_penguins)** → Predição de massa corporal de pinguins  
+- **[EDA](https://github.com/joaorenatofraga/EDA)** → Análise exploratória de dados em Python  
+- **[Word-Frequency-Analyzer](https://github.com/joaorenatofraga/Word-Frequency-Analyzer)** → Frequência de palavras em textos  
+
+---
+
+## 🎓 Formação
+- **Pós-Graduação em Engenharia de Dados** (em andamento)  
+- **Pós-Graduação em Ciência de Dados e Inteligência Artificial** (2025)  
+- **Google Data Analytics Certificate** (2022)  
+- **Administração (Uninassau)** & **Engenharia Química (UFPE)**  
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorenatofraga&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorenatofraga&layout=compact&theme=dracula)
+
+---
+
+## 🌍 Idiomas
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Fluente  
+- 🇪🇸 Espanhol: Básico  
+
+---
+
+## 📫 Contato
+- 📧 [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/renatofraga)  
+- 🌐 [GitHub](https://github.com/joaorenatofraga)  
+
+
+------
+
+# João Renato Fraga
+
+## 🌟 Data Engineer | Data Scientist | Data Analyst
+
+Welcome to my GitHub! I am passionate about **data engineering and data science**, with experience in **ETL, pipelines, machine learning, and predictive analytics**.  
+Background in Administration, Engineering, and Finance, I believe in the power of data to transform businesses.
+
+---
+
+## 🚀 About Me
+- 📊 Experience in **ETL, Data Warehousing, and Big Data**  
+- 🤖 Knowledge in **Machine Learning, NLP, and predictive analytics**  
+- ☁️ Skilled with **SQL, Python, Spark/PySpark, and Cloud platforms**  
+- 📈 Building **dashboards and data-driven solutions** for decision making
+
+---
+
+## 🛠️ Technologies
+- **Languages:** Python, SQL  
+- **Visualization:** Power BI, Excel  
+- **Big Data & Pipelines:** PySpark, ETL, Data Warehouse, Delta Lake  
+- **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, Seaborn, Matplotlib  
+
+---
+
+## 💼 Experience
+- **Data Analyst | Amigo Tech (2025)**  
+  Automated ETL processes, dashboards in Looker, and financial data-driven workflows.  
+
+- **Data Analyst | Thirty Capital (2024)**  
+  ETL and financial data validation for a U.S. real estate platform.  
+
+- **Market Intelligence Analyst | Foco Aluguel de Carros (2022–2024)**  
+  Demand forecasting, pricing, and BI dashboards for strategic decisions.  
+
+- **Controlling Intern | Indústrias Reunidas Raymundo da Fonte (2019–2021)**  
+  Supported cost analysis, process optimization, and monthly closings.  
+
+---
+
+## 📂 Featured Projects
+- **[REVENUE_MAXIMIZER](https://github.com/joaorenatofraga/REVENUE_MAXIMIZER)** → Price optimization tool using linear and exponential models  
+- **[linear_regression_penguins](https://github.com/joaorenatofraga/linear_regression_penguins)** → Predicting penguins’ body mass using linear regression  
+- **[EDA](https://github.com/joaorenatofraga/EDA)** → Exploratory data analysis in Python  
+- **[Word-Frequency-Analyzer](https://github.com/joaorenatofraga/Word-Frequency-Analyzer)** → Text word frequency analysis  
+
+---
+
+## 🎓 Education
+- **Postgraduate in Data Engineering** (In Progress)  
+- **Postgraduate in Data Science & Artificial Intelligence** (2025)  
+- **Google Data Analytics Certificate** (2022)  
+- **Bachelor’s in Business Administration (Uninassau)** & **Chemical Engineering (UFPE)**  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorenatofraga&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorenatofraga&layout=compact&theme=dracula)
+
+---
+
+## 🌍 Languages
+- 🇧🇷 Portuguese: Native  
+- 🇺🇸 English: Fluent  
+- 🇪🇸 Spanish: Basic  
+
+---
+
+## 📫 Contact
+- 📧 [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/renatofraga)  
+- 🌐 [GitHub](https://github.com/joaorenatofraga)  
+
