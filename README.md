@@ -1,17 +1,16 @@
 # João Renato Fraga
 
-## 🌟 Data Engineer | Data Scientist | Data Analyst
+## 🌟  Data Analyst
 
-Bem-vindo(a) ao meu GitHub! Sou apaixonado por **engenharia e ciência de dados**, com experiência em **ETL, pipelines, machine learning e análise preditiva**.  
+Bem-vindo(a) ao meu GitHub! Sou apaixonado por dados, com experiência em **Criação de dashboards, ETL, pipelines, machine learning e análise preditiva**.  
 Tenho background em Administração, Engenharia e Finanças, e acredito no poder dos dados para transformar negócios.
 
 ---
 
 ## 🚀 Sobre Mim
-- 📊 Experiência em **ETL, Data Warehouse e Big Data**  
-- 🤖 Conhecimento em **Machine Learning, NLP e análise preditiva**  
-- ☁️ Vivência em **SQL, Python, Spark/PySpark e Cloud**  
-- 📈 Criação de **dashboards e soluções data-driven** para tomada de decisão
+
+- ☁️ Vivência em **SQL, Python, Power BI e Excel**  
+- 📈 Criação de **dashboards, soluções data-driven, processos de ETL, análise de dados, análise preditiva e machine learning** para tomada de decisão
 
 ---
 
@@ -77,9 +76,9 @@ Tenho background em Administração, Engenharia e Finanças, e acredito no poder
 
 # João Renato Fraga
 
-## 🌟 Data Engineer | Data Scientist | Data Analyst
+## 🌟  Data Analyst
 
-Welcome to my GitHub! I am passionate about **data engineering and data science**, with experience in **ETL, pipelines, machine learning, and predictive analytics**.  
+Welcome to my GitHub! I am passionate about data, with experience in **ETL, pipelines, machine learning, and predictive analytics**.  
 Background in Administration, Engineering, and Finance, I believe in the power of data to transform businesses.
 
 ---
