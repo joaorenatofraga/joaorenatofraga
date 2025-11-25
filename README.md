@@ -114,12 +114,8 @@ technical solutions with real business impact.
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorenatofraga&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorenatofraga&layout=compact&theme=dracula)
 
----
 
 ## 🌍 Languages
 
@@ -254,12 +250,6 @@ soluções técnicas com impacto real no negócio.
 - **[Data Cleaning Sales Pipeline](https://github.com/joaorenatofraga/data-cleaning-sales-pipeline)** →  This project applies data cleaning techniques to a fictional sales dataset using Python and the Pandas library
 - **[linear_regression_penguins](https://github.com/joaorenatofraga/linear_regression_penguins)** → Predicting penguin body mass with linear regression 
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorenatofraga&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorenatofraga&layout=compact&theme=dracula)
 
 ---
 
