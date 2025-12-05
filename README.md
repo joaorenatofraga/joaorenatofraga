@@ -95,23 +95,13 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-##  Featured Projects
-
-- **[REVENUE_MAXIMIZER](https://github.com/joaorenatofraga/REVENUE_MAXIMIZER)** → Price optimization using mathematical models   
-- **[Data Cleaning Sales Pipeline](https://github.com/joaorenatofraga/data-cleaning-sales-pipeline)** →  This project applies data cleaning techniques to a fictional sales dataset using Python and the Pandas library
-- **[linear_regression_penguins](https://github.com/joaorenatofraga/linear_regression_penguins)** → Predicting penguin body mass with linear regression 
- 
-
----
-
-
 
 
 ##  Languages
 
-- 🇧🇷 Portuguese: Native  
-- 🇺🇸 English: Fluent  
-- 🇪🇸 Spanish: Basic  
+-  Portuguese: Native  
+-  English: Fluent  
+-  Spanish: Basic  
 
 ---
 
