@@ -109,5 +109,4 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 -  [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)  
 -  [LinkedIn](https://linkedin.com/in/joaorenatofraga)  
--  [GitHub](https://github.com/joaorenatofraga)  
 
