@@ -1,7 +1,7 @@
 # João Renato Fraga
 
 
-Welcome to my GitHub! I’m an ** Data Professional** focused on  
+Welcome to my GitHub! I’m an **Data Professional** focused on  
 **ETL/ELT, Data Lakes, Data Warehouses, and analytics-ready datasets in the cloud**.  
 
 
