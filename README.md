@@ -7,18 +7,18 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🛠️ Strong hands-on experience with **ETL/ELT, data quality, and governance**  
-- 🧱 Modeling **Data Lakes and Data Warehouses** with Bronze/Silver/Gold architectures  
-- ☁️ Cloud experience with **Google Cloud Platform (GCP), Amazon Web Services (AWS) and Microsoft Azure** for data engineering, analytics and scalable pipelines.
-- 📊 Building **dashboards and executive KPIs** in **Power BI** and **Looker Studio**  
-- 🤖 Practical experience with **Machine Learning, predictive analytics and forecasting**  
-- 📦 Passionate about **data operations (DataOps)**, documentation and process standardization  
+-  Strong hands-on experience with **ETL/ELT, data quality, and governance**  
+-  Modeling **Data Lakes and Data Warehouses** with Bronze/Silver/Gold architectures  
+-  Cloud experience with **Google Cloud Platform (GCP), Amazon Web Services (AWS) and Microsoft Azure** for data engineering, analytics and scalable pipelines.
+-  Building **dashboards and executive KPIs** in **Power BI** and **Looker Studio**  
+-  Practical experience with **Machine Learning, predictive analytics and forecasting**  
+-  Passionate about **data operations (DataOps)**, documentation and process standardization  
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 - **ETL/ELT & Data Automation**  
   - Ingestion of APIs, web scraping and spreadsheets  
@@ -48,7 +48,7 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-## 💼 Experience
+##  Experience
 
 - **Analytics Engineer | Data Driven Solutions (Founder) – 07/2025 – 11/2025**  
   Full ownership of the data lifecycle, including ingestion from multiple sources (APIs, web scraping, spreadsheets)  
@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **Postgraduate in Data Engineering | 2025 – 2026 (In Progress) – Anhanguera**  
   Data Warehouses, Big Data, Data Lakes, ETL/ELT, Spark, Delta Lake, Databricks, Airflow, Azure/GCP/AWS.
@@ -95,7 +95,7 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - **[REVENUE_MAXIMIZER](https://github.com/joaorenatofraga/REVENUE_MAXIMIZER)** → Price optimization using mathematical models   
 - **[Data Cleaning Sales Pipeline](https://github.com/joaorenatofraga/data-cleaning-sales-pipeline)** →  This project applies data cleaning techniques to a fictional sales dataset using Python and the Pandas library
@@ -107,7 +107,7 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 
 
-## 🌍 Languages
+##  Languages
 
 - 🇧🇷 Portuguese: Native  
 - 🇺🇸 English: Fluent  
@@ -115,9 +115,9 @@ Welcome to my GitHub! I’m an **Data Professional** focused on
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📧 [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/joaorenatofraga)  
-- 🌐 [GitHub](https://github.com/joaorenatofraga)  
+-  [renatofraga.rr@gmail.com](mailto:renatofraga.rr@gmail.com)  
+-  [LinkedIn](https://linkedin.com/in/joaorenatofraga)  
+-  [GitHub](https://github.com/joaorenatofraga)  
 
